@@ -1,0 +1,6 @@
+token = "TELEGRAMBOTTOKEN"
+chatid = "CHATID"
+hostname1 = "IP1"
+hostname2 = "IP2"
+hostname3 = "IP3"
+hostname4 = "IP4"
